@@ -13,6 +13,11 @@ A search string parsing and stringifying library
 npm install qqq-q
 ```
 
+## Test 
+```sh
+npm test
+```
+
 ## Usage
 ```javascript
 var q = require('qqq.q');
