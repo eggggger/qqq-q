@@ -1,7 +1,7 @@
 # qqq-q
 A search string parsing and stringifying library
 
-## Supported
+## Supports
 * q=string
 * q=string field:content
 * q=string model.field:content 
