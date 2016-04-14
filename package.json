@@ -3,7 +3,7 @@
   "version": "1.0.7",
   "main": "qqq-q.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/ava test/*.js --tap"
   },
   "author": "",
   "license": "MIT",
@@ -15,5 +15,8 @@
     "url": "https://github.com/eggggger/qqq-q/issues"
   },
   "homepage": "https://github.com/eggggger/qqq-q#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "ava": "^0.14.0"
+  }
 }
