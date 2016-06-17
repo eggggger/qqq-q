@@ -1,4 +1,6 @@
-# qqq-q
+# qqq-q 
+[![Build Status](https://travis-ci.org/eggggger/qqq-q.svg?branch=master)](https://travis-ci.org/eggggger/qqq-q)
+
 A search string parsing and stringifying library
 
 ## Supports
